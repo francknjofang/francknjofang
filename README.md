@@ -2,18 +2,25 @@
 
 - Stats ⚡
 
-![franck's GitHub stats](https://github-readme-stats.vercel.app/api?username=francknjofang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiamoura&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
 
+- Repos 🔭
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sokube&repo=aws-eks&show_owner=true&theme=cobalt)](https://github.com/sokube/aws-eks)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samiamoura&repo=gitops-training&show_owner=true&theme=synthwave)](https://github.com/samiamoura/gitops-training)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samiamoura&repo=devsecops-phonebook&show_owner=true&theme=gruvbox)](https://github.com/samiamoura/devsecops-phonebook)
 
 - Lang ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francknjofang&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diranetafen&langs_count=10&hide=javascript,html,php,python)
 
 
 
 
 <!--
-**francknjofang/frnacknjofang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samiamoura/samiamoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
