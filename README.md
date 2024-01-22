@@ -6,6 +6,7 @@
 
 - Repos 🔭
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francknjofang&repo=flaskapplication&show_owner=true)](https://github.com/francknjofang/flaskapplication)
+-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francknjofang&repo=TPkubernetes&show_owner=true)](https://github.com/francknjofang/TPkubernetes)
 - Lang ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francknjofang&langs_count=10&hide=javascript,html,php,python)
