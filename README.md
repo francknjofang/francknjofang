@@ -8,7 +8,6 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francknjofang&repo=flaskapplication&show_owner=true&theme=synthwave)](https://github.com/francknjofang/flaskapplication)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francknjofang&repo=certifications&show_owner=true&theme=synthwave)](https://github.com/francknjofang/certifications)
 
 - **Lang ✨**
 
